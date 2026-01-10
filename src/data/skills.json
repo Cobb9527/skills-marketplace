@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "git-helper",
+    "name": "Git助手",
+    "nameEn": "Git Helper",
+    "description": "帮助管理Git仓库，自动化常见Git操作，包括提交、推送、分支管理等",
+    "category": "dev-tools",
+    "author": "devtools",
+    "version": "2.1.0",
+    "downloads": 5234,
+    "stars": 156,
+    "lastUpdate": "2024-12-15",
+    "tags": [
+      "git",
+      "version-control",
+      "automation"
+    ],
+    "repository": "https://github.com/example/git-helper"
+  },
+  {
+    "id": "code-formatter",
+    "name": "代码格式化",
+    "nameEn": "Code Formatter",
+    "description": "自动格式化多种编程语言的代码，支持自定义规则",
+    "category": "dev-tools",
+    "author": "codetools",
+    "version": "1.5.2",
+    "downloads": 8901,
+    "stars": 234,
+    "lastUpdate": "2024-12-20",
+    "tags": [
+      "formatter",
+      "code-quality",
+      "linting"
+    ],
+    "repository": "https://github.com/example/code-formatter"
+  },
+  {
+    "id": "api-tester",
+    "name": "API测试器",
+    "nameEn": "API Tester",
+    "description": "快速测试REST API端点，生成测试报告",
+    "category": "testing",
+    "author": "testpro",
+    "version": "3.0.1",
+    "downloads": 3456,
+    "stars": 89,
+    "lastUpdate": "2024-12-18",
+    "tags": [
+      "api",
+      "testing",
+      "rest"
+    ],
+    "repository": "https://github.com/example/api-tester"
+  },
+  {
+    "id": "docker-manager",
+    "name": "Docker管理器",
+    "nameEn": "Docker Manager",
+    "description": "简化Docker容器和镜像的管理，一键部署应用",
+    "category": "deployment",
+    "author": "devops-team",
+    "version": "2.3.0",
+    "downloads": 6789,
+    "stars": 198,
+    "lastUpdate": "2024-12-22",
+    "tags": [
+      "docker",
+      "containers",
+      "deployment"
+    ],
+    "repository": "https://github.com/example/docker-manager"
+  },
+  {
+    "id": "sql-optimizer",
+    "name": "SQL优化器",
+    "nameEn": "SQL Optimizer",
+    "description": "分析和优化SQL查询，提供性能改进建议",
+    "category": "database",
+    "author": "dbtools",
+    "version": "1.8.0",
+    "downloads": 2134,
+    "stars": 67,
+    "lastUpdate": "2024-12-10",
+    "tags": [
+      "sql",
+      "database",
+      "optimization"
+    ],
+    "repository": "https://github.com/example/sql-optimizer"
+  },
+  {
+    "id": "ml-dataset-analyzer",
+    "name": "ML数据集分析",
+    "nameEn": "ML Dataset Analyzer",
+    "description": "分析机器学习数据集的质量和特征分布",
+    "category": "data-ai",
+    "author": "ai-lab",
+    "version": "1.2.5",
+    "downloads": 4567,
+    "stars": 145,
+    "lastUpdate": "2024-12-19",
+    "tags": [
+      "machine-learning",
+      "data-analysis",
+      "ai"
+    ],
+    "repository": "https://github.com/example/ml-analyzer"
+  },
+  {
+    "id": "react-component-gen",
+    "name": "React组件生成器",
+    "nameEn": "React Component Generator",
+    "description": "快速生成React组件模板，支持TypeScript",
+    "category": "web-dev",
+    "author": "webdev",
+    "version": "2.0.3",
+    "downloads": 7890,
+    "stars": 267,
+    "lastUpdate": "2024-12-21",
+    "tags": [
+      "react",
+      "components",
+      "typescript"
+    ],
+    "repository": "https://github.com/example/react-gen"
+  },
+  {
+    "id": "workflow-automator",
+    "name": "工作流自动化",
+    "nameEn": "Workflow Automator",
+    "description": "创建和管理自动化工作流，提高开发效率",
+    "category": "automation",
+    "author": "automate-pro",
+    "version": "1.9.0",
+    "downloads": 5678,
+    "stars": 178,
+    "lastUpdate": "2024-12-17",
+    "tags": [
+      "workflow",
+      "automation",
+      "ci-cd"
+    ],
+    "repository": "https://github.com/example/workflow-auto"
+  },
+  {
+    "id": "security-scanner",
+    "name": "安全扫描器",
+    "nameEn": "Security Scanner",
+    "description": "扫描代码中的安全漏洞和潜在风险",
+    "category": "security",
+    "author": "sec-team",
+    "version": "3.1.2",
+    "downloads": 3210,
+    "stars": 112,
+    "lastUpdate": "2024-12-23",
+    "tags": [
+      "security",
+      "vulnerability",
+      "scanning"
+    ],
+    "repository": "https://github.com/example/sec-scanner"
+  },
+  {
+    "id": "markdown-doc-gen",
+    "name": "Markdown文档生成",
+    "nameEn": "Markdown Doc Generator",
+    "description": "从代码注释自动生成Markdown文档",
+    "category": "documentation",
+    "author": "doctools",
+    "version": "1.4.0",
+    "downloads": 4321,
+    "stars": 134,
+    "lastUpdate": "2024-12-14",
+    "tags": [
+      "documentation",
+      "markdown",
+      "generator"
+    ],
+    "repository": "https://github.com/example/md-gen"
+  },
+  {
+    "id": "npm-analyzer",
+    "name": "NPM包分析器",
+    "nameEn": "NPM Package Analyzer",
+    "description": "分析NPM包的依赖关系和安全问题",
+    "category": "dev-tools",
+    "author": "npmtools",
+    "version": "2.2.1",
+    "downloads": 6543,
+    "stars": 189,
+    "lastUpdate": "2024-12-16",
+    "tags": [
+      "npm",
+      "dependencies",
+      "analysis"
+    ],
+    "repository": "https://github.com/example/npm-analyzer"
+  },
+  {
+    "id": "css-optimizer",
+    "name": "CSS优化器",
+    "nameEn": "CSS Optimizer",
+    "description": "优化和压缩CSS文件，移除未使用的样式",
+    "category": "web-dev",
+    "author": "webtools",
+    "version": "1.7.0",
+    "downloads": 5432,
+    "stars": 167,
+    "lastUpdate": "2024-12-12",
+    "tags": [
+      "css",
+      "optimization",
+      "performance"
+    ],
+    "repository": "https://github.com/example/css-opt"
+  },
+  {
+    "id": "jest-helper",
+    "name": "Jest测试助手",
+    "nameEn": "Jest Test Helper",
+    "description": "简化Jest测试编写，生成测试用例模板",
+    "category": "testing",
+    "author": "test-tools",
+    "version": "1.6.3",
+    "downloads": 4789,
+    "stars": 145,
+    "lastUpdate": "2024-12-11",
+    "tags": [
+      "jest",
+      "testing",
+      "unit-tests"
+    ],
+    "repository": "https://github.com/example/jest-helper"
+  },
+  {
+    "id": "kubernetes-deploy",
+    "name": "Kubernetes部署",
+    "nameEn": "Kubernetes Deployer",
+    "description": "简化Kubernetes应用部署流程",
+    "category": "deployment",
+    "author": "k8s-team",
+    "version": "2.5.0",
+    "downloads": 3987,
+    "stars": 123,
+    "lastUpdate": "2024-12-20",
+    "tags": [
+      "kubernetes",
+      "deployment",
+      "orchestration"
+    ],
+    "repository": "https://github.com/example/k8s-deploy"
+  },
+  {
+    "id": "mongodb-backup",
+    "name": "MongoDB备份工具",
+    "nameEn": "MongoDB Backup Tool",
+    "description": "自动化MongoDB数据库备份和恢复",
+    "category": "database",
+    "author": "db-backup",
+    "version": "1.3.2",
+    "downloads": 2876,
+    "stars": 78,
+    "lastUpdate": "2024-12-13",
+    "tags": [
+      "mongodb",
+      "backup",
+      "database"
+    ],
+    "repository": "https://github.com/example/mongo-backup"
+  },
+  {
+    "id": "python-ml-helper",
+    "name": "Python ML助手",
+    "nameEn": "Python ML Helper",
+    "description": "Python机器学习项目的辅助工具集",
+    "category": "data-ai",
+    "author": "ml-tools",
+    "version": "2.1.1",
+    "downloads": 5123,
+    "stars": 201,
+    "lastUpdate": "2024-12-19",
+    "tags": [
+      "python",
+      "machine-learning",
+      "data-science"
+    ],
+    "repository": "https://github.com/example/py-ml"
+  },
+  {
+    "id": "graphql-builder",
+    "name": "GraphQL构建器",
+    "nameEn": "GraphQL Builder",
+    "description": "快速构建GraphQL API和Schema",
+    "category": "web-dev",
+    "author": "api-dev",
+    "version": "1.9.0",
+    "downloads": 4234,
+    "stars": 156,
+    "lastUpdate": "2024-12-18",
+    "tags": [
+      "graphql",
+      "api",
+      "backend"
+    ],
+    "repository": "https://github.com/example/gql-builder"
+  },
+  {
+    "id": "cron-manager",
+    "name": "Cron任务管理",
+    "nameEn": "Cron Job Manager",
+    "description": "管理和监控Cron定时任务",
+    "category": "automation",
+    "author": "scheduler",
+    "version": "1.5.0",
+    "downloads": 3456,
+    "stars": 98,
+    "lastUpdate": "2024-12-15",
+    "tags": [
+      "cron",
+      "scheduling",
+      "automation"
+    ],
+    "repository": "https://github.com/example/cron-mgr"
+  },
+  {
+    "id": "penetration-tester",
+    "name": "渗透测试工具",
+    "nameEn": "Penetration Tester",
+    "description": "Web应用渗透测试和安全评估",
+    "category": "security",
+    "author": "pentest",
+    "version": "2.0.0",
+    "downloads": 2345,
+    "stars": 89,
+    "lastUpdate": "2024-12-22",
+    "tags": [
+      "security",
+      "pentesting",
+      "vulnerability"
+    ],
+    "repository": "https://github.com/example/pentest"
+  },
+  {
+    "id": "api-doc-gen",
+    "name": "API文档生成器",
+    "nameEn": "API Documentation Generator",
+    "description": "从代码自动生成API文档",
+    "category": "documentation",
+    "author": "doc-gen",
+    "version": "2.3.0",
+    "downloads": 5678,
+    "stars": 178,
+    "lastUpdate": "2024-12-17",
+    "tags": [
+      "api",
+      "documentation",
+      "openapi"
+    ],
+    "repository": "https://github.com/example/api-docs"
+  },
+  {
+    "id": "terminal-enhancer",
+    "name": "终端增强器",
+    "nameEn": "Terminal Enhancer",
+    "description": "增强终端功能，提供更好的开发体验",
+    "category": "productivity",
+    "author": "terminal-pro",
+    "version": "1.8.5",
+    "downloads": 6789,
+    "stars": 234,
+    "lastUpdate": "2024-12-21",
+    "tags": [
+      "terminal",
+      "productivity",
+      "cli"
+    ],
+    "repository": "https://github.com/example/term-enhance"
+  },
+  {
+    "id": "vscode-theme-gen",
+    "name": "VSCode主题生成器",
+    "nameEn": "VSCode Theme Generator",
+    "description": "创建自定义VSCode主题",
+    "category": "dev-tools",
+    "author": "theme-tools",
+    "version": "1.2.0",
+    "downloads": 3987,
+    "stars": 123,
+    "lastUpdate": "2024-12-10",
+    "tags": [
+      "vscode",
+      "theme",
+      "customization"
+    ],
+    "repository": "https://github.com/example/vscode-theme"
+  },
+  {
+    "id": "webpack-optimizer",
+    "name": "Webpack优化器",
+    "nameEn": "Webpack Optimizer",
+    "description": "优化Webpack配置，提升构建性能",
+    "category": "web-dev",
+    "author": "build-tools",
+    "version": "2.4.1",
+    "downloads": 4567,
+    "stars": 167,
+    "lastUpdate": "2024-12-14",
+    "tags": [
+      "webpack",
+      "build",
+      "optimization"
+    ],
+    "repository": "https://github.com/example/webpack-opt"
+  },
+  {
+    "id": "e2e-test-runner",
+    "name": "E2E测试运行器",
+    "nameEn": "E2E Test Runner",
+    "description": "端到端测试自动化工具",
+    "category": "testing",
+    "author": "qa-tools",
+    "version": "1.7.2",
+    "downloads": 3210,
+    "stars": 101,
+    "lastUpdate": "2024-12-16",
+    "tags": [
+      "e2e",
+      "testing",
+      "automation"
+    ],
+    "repository": "https://github.com/example/e2e-runner"
+  },
+  {
+    "id": "nginx-config-gen",
+    "name": "Nginx配置生成器",
+    "nameEn": "Nginx Config Generator",
+    "description": "生成优化的Nginx配置文件",
+    "category": "deployment",
+    "author": "webserver",
+    "version": "1.4.0",
+    "downloads": 2876,
+    "stars": 87,
+    "lastUpdate": "2024-12-12",
+    "tags": [
+      "nginx",
+      "webserver",
+      "configuration"
+    ],
+    "repository": "https://github.com/example/nginx-gen"
+  },
+  {
+    "id": "redis-manager",
+    "name": "Redis管理工具",
+    "nameEn": "Redis Manager",
+    "description": "Redis数据库管理和监控",
+    "category": "database",
+    "author": "cache-tools",
+    "version": "2.1.0",
+    "downloads": 4123,
+    "stars": 134,
+    "lastUpdate": "2024-12-18",
+    "tags": [
+      "redis",
+      "cache",
+      "database"
+    ],
+    "repository": "https://github.com/example/redis-mgr"
+  },
+  {
+    "id": "tensorflow-helper",
+    "name": "TensorFlow助手",
+    "nameEn": "TensorFlow Helper",
+    "description": "TensorFlow模型开发和训练辅助工具",
+    "category": "data-ai",
+    "author": "ai-dev",
+    "version": "1.9.3",
+    "downloads": 3654,
+    "stars": 145,
+    "lastUpdate": "2024-12-20",
+    "tags": [
+      "tensorflow",
+      "deep-learning",
+      "ai"
+    ],
+    "repository": "https://github.com/example/tf-helper"
+  },
+  {
+    "id": "vue-scaffold",
+    "name": "Vue脚手架",
+    "nameEn": "Vue Scaffolder",
+    "description": "快速创建Vue项目结构和组件",
+    "category": "web-dev",
+    "author": "vue-tools",
+    "version": "2.2.0",
+    "downloads": 5234,
+    "stars": 189,
+    "lastUpdate": "2024-12-15",
+    "tags": [
+      "vue",
+      "scaffolding",
+      "frontend"
+    ],
+    "repository": "https://github.com/example/vue-scaffold"
+  },
+  {
+    "id": "github-actions-helper",
+    "name": "GitHub Actions助手",
+    "nameEn": "GitHub Actions Helper",
+    "description": "简化GitHub Actions工作流配置",
+    "category": "automation",
+    "author": "ci-tools",
+    "version": "1.6.0",
+    "downloads": 4789,
+    "stars": 156,
+    "lastUpdate": "2024-12-19",
+    "tags": [
+      "github",
+      "ci-cd",
+      "automation"
+    ],
+    "repository": "https://github.com/example/gh-actions"
+  },
+  {
+    "id": "ssl-cert-manager",
+    "name": "SSL证书管理",
+    "nameEn": "SSL Certificate Manager",
+    "description": "管理和更新SSL/TLS证书",
+    "category": "security",
+    "author": "ssl-tools",
+    "version": "1.5.1",
+    "downloads": 2987,
+    "stars": 92,
+    "lastUpdate": "2024-12-13",
+    "tags": [
+      "ssl",
+      "security",
+      "certificates"
+    ],
+    "repository": "https://github.com/example/ssl-mgr"
+  },
+  {
+    "id": "changelog-generator",
+    "name": "变更日志生成器",
+    "nameEn": "Changelog Generator",
+    "description": "从Git提交历史生成变更日志",
+    "category": "documentation",
+    "author": "release-tools",
+    "version": "1.3.0",
+    "downloads": 3456,
+    "stars": 109,
+    "lastUpdate": "2024-12-11",
+    "tags": [
+      "changelog",
+      "git",
+      "documentation"
+    ],
+    "repository": "https://github.com/example/changelog"
+  },
+  {
+    "id": "snippet-manager",
+    "name": "代码片段管理器",
+    "nameEn": "Code Snippet Manager",
+    "description": "管理和共享常用代码片段",
+    "category": "productivity",
+    "author": "snippet-tools",
+    "version": "2.0.1",
+    "downloads": 5678,
+    "stars": 201,
+    "lastUpdate": "2024-12-17",
+    "tags": [
+      "snippets",
+      "productivity",
+      "code"
+    ],
+    "repository": "https://github.com/example/snippets"
+  },
+  {
+    "id": "error-tracker",
+    "name": "错误追踪器",
+    "nameEn": "Error Tracker",
+    "description": "追踪和分析应用程序错误",
+    "category": "dev-tools",
+    "author": "monitoring",
+    "version": "2.3.2",
+    "downloads": 4321,
+    "stars": 178,
+    "lastUpdate": "2024-12-20",
+    "tags": [
+      "error-tracking",
+      "monitoring",
+      "debugging"
+    ],
+    "repository": "https://github.com/example/error-track"
+  },
+  {
+    "id": "tailwind-generator",
+    "name": "Tailwind配置生成器",
+    "nameEn": "Tailwind Config Generator",
+    "description": "生成自定义Tailwind CSS配置",
+    "category": "web-dev",
+    "author": "css-tools",
+    "version": "1.4.5",
+    "downloads": 6123,
+    "stars": 234,
+    "lastUpdate": "2024-12-22",
+    "tags": [
+      "tailwind",
+      "css",
+      "configuration"
+    ],
+    "repository": "https://github.com/example/tailwind-gen"
+  },
+  {
+    "id": "load-tester",
+    "name": "负载测试工具",
+    "nameEn": "Load Tester",
+    "description": "对应用程序进行性能和负载测试",
+    "category": "testing",
+    "author": "perf-tools",
+    "version": "1.8.0",
+    "downloads": 2765,
+    "stars": 95,
+    "lastUpdate": "2024-12-14",
+    "tags": [
+      "load-testing",
+      "performance",
+      "testing"
+    ],
+    "repository": "https://github.com/example/load-test"
+  },
+  {
+    "id": "aws-deployer",
+    "name": "AWS部署工具",
+    "nameEn": "AWS Deployer",
+    "description": "简化AWS云服务部署流程",
+    "category": "deployment",
+    "author": "cloud-tools",
+    "version": "2.6.0",
+    "downloads": 5432,
+    "stars": 189,
+    "lastUpdate": "2024-12-21",
+    "tags": [
+      "aws",
+      "cloud",
+      "deployment"
+    ],
+    "repository": "https://github.com/example/aws-deploy"
+  },
+  {
+    "id": "postgres-optimizer",
+    "name": "PostgreSQL优化器",
+    "nameEn": "PostgreSQL Optimizer",
+    "description": "优化PostgreSQL数据库性能",
+    "category": "database",
+    "author": "db-optimize",
+    "version": "1.7.1",
+    "downloads": 3210,
+    "stars": 112,
+    "lastUpdate": "2024-12-16",
+    "tags": [
+      "postgresql",
+      "database",
+      "optimization"
+    ],
+    "repository": "https://github.com/example/pg-opt"
+  },
+  {
+    "id": "data-pipeline",
+    "name": "数据管道构建器",
+    "nameEn": "Data Pipeline Builder",
+    "description": "构建和管理数据处理管道",
+    "category": "data-ai",
+    "author": "data-eng",
+    "version": "2.2.3",
+    "downloads": 4567,
+    "stars": 167,
+    "lastUpdate": "2024-12-18",
+    "tags": [
+      "data-pipeline",
+      "etl",
+      "data-engineering"
+    ],
+    "repository": "https://github.com/example/data-pipeline"
+  },
+  {
+    "id": "svelte-toolkit",
+    "name": "Svelte工具包",
+    "nameEn": "Svelte Toolkit",
+    "description": "Svelte开发工具和组件库",
+    "category": "web-dev",
+    "author": "svelte-dev",
+    "version": "1.5.2",
+    "downloads": 3876,
+    "stars": 134,
+    "lastUpdate": "2024-12-12",
+    "tags": [
+      "svelte",
+      "frontend",
+      "components"
+    ],
+    "repository": "https://github.com/example/svelte-toolkit"
+  },
+  {
+    "id": "bash-script-gen",
+    "name": "Bash脚本生成器",
+    "nameEn": "Bash Script Generator",
+    "description": "生成常用的Bash脚本模板",
+    "category": "automation",
+    "author": "script-tools",
+    "version": "1.4.0",
+    "downloads": 2987,
+    "stars": 89,
+    "lastUpdate": "2024-12-10",
+    "tags": [
+      "bash",
+      "scripting",
+      "automation"
+    ],
+    "repository": "https://github.com/example/bash-gen"
+  },
+  {
+    "id": "readme-generator",
+    "name": "README生成器",
+    "nameEn": "README Generator",
+    "description": "为项目生成专业的README文档",
+    "category": "documentation",
+    "author": "readme-tools",
+    "version": "2.1.0",
+    "downloads": 6234,
+    "stars": 245,
+    "lastUpdate": "2024-12-19",
+    "tags": [
+      "readme",
+      "documentation",
+      "markdown"
+    ],
+    "repository": "https://github.com/example/readme-gen"
+  },
+  {
+    "id": "keyboard-shortcuts",
+    "name": "快捷键管理器",
+    "nameEn": "Keyboard Shortcuts Manager",
+    "description": "管理和自定义应用快捷键",
+    "category": "productivity",
+    "author": "productivity",
+    "version": "1.6.2",
+    "downloads": 4123,
+    "stars": 145,
+    "lastUpdate": "2024-12-15",
+    "tags": [
+      "shortcuts",
+      "productivity",
+      "customization"
+    ],
+    "repository": "https://github.com/example/shortcuts"
+  },
+  {
+    "id": "json-validator",
+    "name": "JSON验证器",
+    "nameEn": "JSON Validator",
+    "description": "验证和格式化JSON数据",
+    "category": "dev-tools",
+    "author": "json-tools",
+    "version": "1.3.1",
+    "downloads": 5432,
+    "stars": 178,
+    "lastUpdate": "2024-12-13",
+    "tags": [
+      "json",
+      "validation",
+      "formatting"
+    ],
+    "repository": "https://github.com/example/json-val"
+  },
+  {
+    "id": "nextjs-boilerplate",
+    "name": "Next.js模板生成器",
+    "nameEn": "Next.js Boilerplate Generator",
+    "description": "生成Next.js项目模板",
+    "category": "web-dev",
+    "author": "nextjs-tools",
+    "version": "2.5.0",
+    "downloads": 7123,
+    "stars": 298,
+    "lastUpdate": "2024-12-23",
+    "tags": [
+      "nextjs",
+      "react",
+      "boilerplate"
+    ],
+    "repository": "https://github.com/example/nextjs-gen"
+  },
+  {
+    "id": "integration-tester",
+    "name": "集成测试工具",
+    "nameEn": "Integration Tester",
+    "description": "自动化集成测试工具",
+    "category": "testing",
+    "author": "test-automation",
+    "version": "1.9.1",
+    "downloads": 3654,
+    "stars": 123,
+    "lastUpdate": "2024-12-17",
+    "tags": [
+      "integration-testing",
+      "testing",
+      "automation"
+    ],
+    "repository": "https://github.com/example/int-test"
+  },
+  {
+    "id": "ci-pipeline-builder",
+    "name": "CI管道构建器",
+    "nameEn": "CI Pipeline Builder",
+    "description": "构建和配置CI/CD管道",
+    "category": "deployment",
+    "author": "devops",
+    "version": "2.4.2",
+    "downloads": 4876,
+    "stars": 167,
+    "lastUpdate": "2024-12-20",
+    "tags": [
+      "ci-cd",
+      "pipeline",
+      "devops"
+    ],
+    "repository": "https://github.com/example/ci-builder"
+  },
+  {
+    "id": "nlp-toolkit",
+    "name": "NLP工具包",
+    "nameEn": "NLP Toolkit",
+    "description": "自然语言处理工具和模型",
+    "category": "data-ai",
+    "author": "nlp-team",
+    "version": "1.8.0",
+    "downloads": 3987,
+    "stars": 156,
+    "lastUpdate": "2024-12-16",
+    "tags": [
+      "nlp",
+      "ai",
+      "language-processing"
+    ],
+    "repository": "https://github.com/example/nlp-toolkit"
+  },
+  {
+    "id": "env-manager",
+    "name": "环境变量管理器",
+    "nameEn": "Environment Manager",
+    "description": "管理多环境配置和环境变量",
+    "category": "productivity",
+    "author": "config-tools",
+    "version": "1.5.3",
+    "downloads": 5234,
+    "stars": 189,
+    "lastUpdate": "2024-12-18",
+    "tags": [
+      "environment",
+      "configuration",
+      "dotenv"
+    ],
+    "repository": "https://github.com/example/env-mgr"
+  },
+  {
+    "id": "docx-skill",
+    "name": "docx",
+    "nameEn": "Word Document Processor",
+    "description": "Create, edit, analyze Word docs with tracked changes, comments, formatting.",
+    "category": "document-processing",
+    "author": "anthropics",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "docx",
+      "word",
+      "document"
+    ],
+    "repository": "https://github.com/anthropics/skills/tree/main/skills/docx"
+  },
+  {
+    "id": "pdf-skill",
+    "name": "pdf",
+    "nameEn": "PDF Processor",
+    "description": "Extract text, tables, metadata, merge & annotate PDFs.",
+    "category": "document-processing",
+    "author": "anthropics",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "pdf",
+      "document",
+      "extraction"
+    ],
+    "repository": "https://github.com/anthropics/skills/tree/main/skills/pdf"
+  },
+  {
+    "id": "pptx-skill",
+    "name": "pptx",
+    "nameEn": "PowerPoint Processor",
+    "description": "Read, generate, and adjust slides, layouts, templates.",
+    "category": "document-processing",
+    "author": "anthropics",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "pptx",
+      "powerpoint",
+      "slides"
+    ],
+    "repository": "https://github.com/anthropics/skills/tree/main/skills/pptx"
+  },
+  {
+    "id": "xlsx-skill",
+    "name": "xlsx",
+    "nameEn": "Excel Processor",
+    "description": "Spreadsheet manipulation: formulas, charts, data transformations.",
+    "category": "document-processing",
+    "author": "anthropics",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "xlsx",
+      "excel",
+      "spreadsheet"
+    ],
+    "repository": "https://github.com/anthropics/skills/tree/main/skills/xlsx"
+  },
+  {
+    "id": "markdown-epub",
+    "name": "Markdown to EPUB",
+    "nameEn": "Markdown to EPUB Converter",
+    "description": "Converts markdown documents and chat summaries into professional EPUB ebook files.",
+    "category": "document-processing",
+    "author": "smerchek",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "markdown",
+      "epub",
+      "ebook"
+    ],
+    "repository": "https://github.com/smerchek/claude-epub-skill"
+  },
+  {
+    "id": "artifacts-builder",
+    "name": "Artifacts Builder",
+    "nameEn": "Web Artifacts Builder",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies.",
+    "category": "dev-tools",
+    "author": "anthropics",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "artifacts",
+      "html",
+      "react"
+    ],
+    "repository": "https://github.com/anthropics/skills/tree/main/web-artifacts-builder"
+  },
+  {
+    "id": "aws-skills",
+    "name": "AWS Skills",
+    "nameEn": "AWS Developer Tools",
+    "description": "AWS development with CDK best practices, cost optimization MCP servers, and serverless architecture patterns.",
+    "category": "dev-tools",
+    "author": "zxkane",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "aws",
+      "cloud",
+      "cdk"
+    ],
+    "repository": "https://github.com/zxkane/aws-skills"
+  },
+  {
+    "id": "changelog-gen-composio",
+    "name": "Changelog Generator",
+    "nameEn": "Automatic Changelog Generator",
+    "description": "Automatically creates user-facing changelogs from git commits by analyzing history.",
+    "category": "dev-tools",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "git",
+      "changelog",
+      "documentation"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/changelog-generator"
+  },
+  {
+    "id": "terminal-title",
+    "name": "Terminal Title",
+    "nameEn": "Claude Code Terminal Title",
+    "description": "Gives each Claud-Code terminal window a dynamic title that describes the work being done.",
+    "category": "dev-tools",
+    "author": "bluzername",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "terminal",
+      "cli",
+      "productivity"
+    ],
+    "repository": "https://github.com/bluzername/claude-code-terminal-title"
+  },
+  {
+    "id": "d3js-viz",
+    "name": "D3.js Viz",
+    "nameEn": "D3.js Visualization",
+    "description": "Teaches Claude to produce D3 charts and interactive data visualizations.",
+    "category": "dev-tools",
+    "author": "chrisvoncsefalvay",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "d3",
+      "visualization",
+      "data"
+    ],
+    "repository": "https://github.com/chrisvoncsefalvay/claude-d3js-skill"
+  },
+  {
+    "id": "ffuf-fuzzing",
+    "name": "FFUF Fuzzing",
+    "nameEn": "FFUF Web Fuzzing",
+    "description": "Integrates the ffuf web fuzzer so Claude can run fuzzing tasks and analyze results for vulnerabilities.",
+    "category": "dev-tools",
+    "author": "jthack",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "security",
+      "fuzzing",
+      "testing"
+    ],
+    "repository": "https://github.com/jthack/ffuf_claude_skill"
+  },
+  {
+    "id": "finish-branch",
+    "name": "Finish Branch",
+    "nameEn": "Finish Development Branch",
+    "description": "Guides completion of development work by presenting clear options and handling chosen workflow.",
+    "category": "dev-tools",
+    "author": "obra",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "git",
+      "workflow",
+      "development"
+    ],
+    "repository": "https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch"
+  },
+  {
+    "id": "ios-sim",
+    "name": "iOS Simulator",
+    "nameEn": "iOS Simulator Control",
+    "description": "Enables Claude to interact with iOS Simulator for testing and debugging iOS applications.",
+    "category": "dev-tools",
+    "author": "conorluddy",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "ios",
+      "mobile",
+      "testing"
+    ],
+    "repository": "https://github.com/conorluddy/ios-simulator-skill"
+  },
+  {
+    "id": "mcp-builder",
+    "name": "MCP Builder",
+    "nameEn": "MCP Server Builder",
+    "description": "Guides creation of high-quality MCP servers for integrating external APIs and services.",
+    "category": "dev-tools",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "mcp",
+      "api",
+      "integration"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/mcp-builder"
+  },
+  {
+    "id": "move-quality",
+    "name": "Move Quality",
+    "nameEn": "Move Code Quality",
+    "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist.",
+    "category": "dev-tools",
+    "author": "1NickPappas",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "move",
+      "blockchain",
+      "code-quality"
+    ],
+    "repository": "https://github.com/1NickPappas/move-code-quality-skill"
+  },
+  {
+    "id": "playwright-skill",
+    "name": "Playwright",
+    "nameEn": "Playwright Automation",
+    "description": "Model-invoked Playwright automation for testing and validating web applications.",
+    "category": "dev-tools",
+    "author": "lackeyjb",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "testing",
+      "browser",
+      "automation"
+    ],
+    "repository": "https://github.com/lackeyjb/playwright-skill"
+  },
+  {
+    "id": "prompt-eng",
+    "name": "Prompt Eng",
+    "nameEn": "Prompt Engineering",
+    "description": "Teaches well-known prompt engineering techniques and patterns, including Anthropic best practices.",
+    "category": "dev-tools",
+    "author": "NeoLabHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "prompting",
+      "llm",
+      "education"
+    ],
+    "repository": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering"
+  },
+  {
+    "id": "pypict",
+    "name": "PyPICT",
+    "nameEn": "Pairwise Testing",
+    "description": "Design comprehensive test cases using PICT for requirements or code, generating optimized test suites.",
+    "category": "dev-tools",
+    "author": "omkamal",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "testing",
+      "qa",
+      "pairwise"
+    ],
+    "repository": "https://github.com/omkamal/pypict-claude-skill"
+  },
+  {
+    "id": "skill-creator",
+    "name": "Skill Creator",
+    "nameEn": "Claude Skill Creator",
+    "description": "Provides guidance for creating effective Claude Skills that extend capabilities.",
+    "category": "dev-tools",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "skills",
+      "development",
+      "claude"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/skill-creator"
+  },
+  {
+    "id": "skill-seekers",
+    "name": "Skill Seekers",
+    "nameEn": "Doc to Skill Converter",
+    "description": "Automatically converts any documentation website into a Claude AI skill in minutes.",
+    "category": "dev-tools",
+    "author": "yusufkaraaslan",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "documentation",
+      "automation",
+      "skills"
+    ],
+    "repository": "https://github.com/yusufkaraaslan/Skill_Seekers"
+  },
+  {
+    "id": "soft-arch",
+    "name": "Soft. Arch.",
+    "nameEn": "Software Architecture",
+    "description": "Implements design patterns including Clean Architecture, SOLID principles, and design best practices.",
+    "category": "dev-tools",
+    "author": "NeoLabHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "architecture",
+      "design-patterns",
+      "coding"
+    ],
+    "repository": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd/skills/software-architecture"
+  },
+  {
+    "id": "subagent-dev",
+    "name": "Subagent Dev",
+    "nameEn": "Subagent Driven Dev",
+    "description": "Dispatches independent subagents for individual tasks with code review checkpoints.",
+    "category": "dev-tools",
+    "author": "NeoLabHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "agents",
+      "automation",
+      "workflow"
+    ],
+    "repository": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd/skills/subagent-driven-development"
+  },
+  {
+    "id": "test-driven-dev",
+    "name": "TDD",
+    "nameEn": "Test Driven Development",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code.",
+    "category": "dev-tools",
+    "author": "obra",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "tdd",
+      "testing",
+      "development"
+    ],
+    "repository": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development"
+  },
+  {
+    "id": "git-worktrees",
+    "name": "Git Worktrees",
+    "nameEn": "Using Git Worktrees",
+    "description": "Creates isolated git worktrees with smart directory selection and safety verification.",
+    "category": "dev-tools",
+    "author": "obra",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "git",
+      "worktrees",
+      "workflow"
+    ],
+    "repository": "https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/"
+  },
+  {
+    "id": "webapp-testing",
+    "name": "Webapp Test",
+    "nameEn": "Webapp Testing",
+    "description": "Tests local web applications using Playwright for verifying frontend functionality.",
+    "category": "dev-tools",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "testing",
+      "web",
+      "playwright"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/webapp-testing"
+  },
+  {
+    "id": "csv-summarizer",
+    "name": "CSV Summary",
+    "nameEn": "CSV Data Summarizer",
+    "description": "Automatically analyzes CSV files and generates comprehensive insights with visualizations.",
+    "category": "data-ai",
+    "author": "coffeefuelbump",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "csv",
+      "analysis",
+      "data"
+    ],
+    "repository": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill"
+  },
+  {
+    "id": "postgres-skill",
+    "name": "Postgres",
+    "nameEn": "PostgreSQL Client",
+    "description": "Execute safe read-only SQL queries against PostgreSQL databases.",
+    "category": "data-ai",
+    "author": "sanjay3290",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "postgres",
+      "sql",
+      "database"
+    ],
+    "repository": "https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres"
+  },
+  {
+    "id": "root-cause",
+    "name": "Root Cause",
+    "nameEn": "Root Cause Tracing",
+    "description": "Use when errors occur deep in execution and you need to trace back to find the original trigger.",
+    "category": "data-ai",
+    "author": "obra",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "debugging",
+      "tracing",
+      "analysis"
+    ],
+    "repository": "https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing"
+  },
+  {
+    "id": "brand-guidelines",
+    "name": "Brand Guides",
+    "nameEn": "Brand Guidelines",
+    "description": "Applies Anthropic's official brand colors and typography to artifacts for consistent visual identity.",
+    "category": "business-marketing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "branding",
+      "design",
+      "marketing"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/brand-guidelines"
+  },
+  {
+    "id": "ads-extractor",
+    "name": "Ads Extractor",
+    "nameEn": "Competitive Ads Extractor",
+    "description": "Extracts and analyzes competitors' ads from ad libraries to understand messaging.",
+    "category": "business-marketing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "marketing",
+      "ads",
+      "research"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/competitive-ads-extractor"
+  },
+  {
+    "id": "domain-brainstorm",
+    "name": "Domain Ideas",
+    "nameEn": "Domain Name Brainstormer",
+    "description": "Generates creative domain name ideas and checks availability across multiple TLDs.",
+    "category": "business-marketing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "domains",
+      "branding",
+      "startups"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/domain-name-brainstormer"
+  },
+  {
+    "id": "internal-comms",
+    "name": "Internal Comms",
+    "nameEn": "Internal Communications",
+    "description": "Helps write internal communications including updates, newsletters, FAQs.",
+    "category": "business-marketing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "communications",
+      "writing",
+      "business"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/internal-comms"
+  },
+  {
+    "id": "lead-research",
+    "name": "Lead Research",
+    "nameEn": "Lead Research Assistant",
+    "description": "Identifies and qualifies high-quality leads by analyzing your product and target companies.",
+    "category": "business-marketing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "sales",
+      "leads",
+      "research"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/lead-research-assistant"
+  },
+  {
+    "id": "article-extractor",
+    "name": "Article Extractor",
+    "nameEn": "Web Article Extractor",
+    "description": "Extract full article text and metadata from web pages.",
+    "category": "communication-writing",
+    "author": "michalparkola",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "scraping",
+      "content",
+      "reading"
+    ],
+    "repository": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/article-extractor"
+  },
+  {
+    "id": "brainstorming-skill",
+    "name": "Brainstorming",
+    "nameEn": "Design Brainstorming",
+    "description": "Transform rough ideas into fully-formed designs through structured questioning.",
+    "category": "communication-writing",
+    "author": "obra",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "design",
+      "ideation",
+      "creative"
+    ],
+    "repository": "https://github.com/obra/superpowers/tree/main/skills/brainstorming"
+  },
+  {
+    "id": "content-writer",
+    "name": "Content Writer",
+    "nameEn": "Content Research Writer",
+    "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks.",
+    "category": "communication-writing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "writing",
+      "marketing",
+      "content"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/content-research-writer"
+  },
+  {
+    "id": "family-history",
+    "name": "Genealogy",
+    "nameEn": "Family History Research",
+    "description": "Provides assistance with planning family history and genealogy research projects.",
+    "category": "communication-writing",
+    "author": "emaynard",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "genealogy",
+      "research",
+      "history"
+    ],
+    "repository": "https://github.com/emaynard/claude-family-history-research-skill"
+  },
+  {
+    "id": "meeting-analyzer",
+    "name": "Meeting Analysis",
+    "nameEn": "Meeting Insights Analyzer",
+    "description": "Analyzes meeting transcripts to uncover behavioral patterns including conflict avoidance and leadership style.",
+    "category": "communication-writing",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "meetings",
+      "analysis",
+      "soft-skills"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/meeting-insights-analyzer"
+  },
+  {
+    "id": "notebooklm-skill",
+    "name": "NotebookLM",
+    "nameEn": "NotebookLM Integration",
+    "description": "Lets Claude Code chat directly with NotebookLM for source-grounded answers.",
+    "category": "communication-writing",
+    "author": "PleasePrompto",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "notebooklm",
+      "research",
+      "integration"
+    ],
+    "repository": "https://github.com/PleasePrompto/notebooklm-skill"
+  },
+  {
+    "id": "canvas-design",
+    "name": "Canvas Design",
+    "nameEn": "Canvas Graphic Design",
+    "description": "Creates beautiful visual art in PNG and PDF documents using design philosophy and aesthetic principles.",
+    "category": "creative-media",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "design",
+      "graphics",
+      "art"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/canvas-design"
+  },
+  {
+    "id": "imagen-skill",
+    "name": "Imagen",
+    "nameEn": "Imagen Generator",
+    "description": "Generate images using Google Gemini's image generation API.",
+    "category": "creative-media",
+    "author": "sanjay3290",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "images",
+      "generation",
+      "ai"
+    ],
+    "repository": "https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen"
+  },
+  {
+    "id": "image-enhancer",
+    "name": "Image Enhancer",
+    "nameEn": "Image Quality Enhancer",
+    "description": "Improves image and screenshot quality by enhancing resolution, sharpness, and clarity.",
+    "category": "creative-media",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "images",
+      "editing",
+      "enhancement"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/image-enhancer"
+  },
+  {
+    "id": "slack-gif",
+    "name": "Slack GIF",
+    "nameEn": "Slack GIF Creator",
+    "description": "Creates animated GIFs optimized for Slack with validators for size constraints.",
+    "category": "creative-media",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "slack",
+      "gif",
+      "animation"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/slack-gif-creator"
+  },
+  {
+    "id": "theme-factory",
+    "name": "Theme Factory",
+    "nameEn": "Design Theme Factory",
+    "description": "Applies professional font and color themes to artifacts including slides, docs, reports.",
+    "category": "creative-media",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "design",
+      "themes",
+      "styling"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/theme-factory"
+  },
+  {
+    "id": "video-downloader",
+    "name": "Video DL",
+    "nameEn": "Video Downloader",
+    "description": "Downloads videos from YouTube and other platforms for offline viewing.",
+    "category": "creative-media",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "video",
+      "youtube",
+      "download"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/video-downloader"
+  },
+  {
+    "id": "youtube-transcript",
+    "name": "YT Transcript",
+    "nameEn": "YouTube Transcript",
+    "description": "Fetch transcripts from YouTube videos and prepare summaries.",
+    "category": "creative-media",
+    "author": "michalparkola",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "youtube",
+      "transcript",
+      "summary"
+    ],
+    "repository": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/youtube-transcript"
+  },
+  {
+    "id": "file-organizer",
+    "name": "File Org",
+    "nameEn": "File Organizer",
+    "description": "Intelligently organizes files and folders by understanding context and finding duplicates.",
+    "category": "productivity",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "file-system",
+      "organization",
+      "productivity"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/file-organizer"
+  },
+  {
+    "id": "invoice-organizer",
+    "name": "Invoice Org",
+    "nameEn": "Invoice Organizer",
+    "description": "Automatically organizes invoices and receipts for tax preparation.",
+    "category": "productivity",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "invoices",
+      "organization",
+      "finance"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/invoice-organizer"
+  },
+  {
+    "id": "kaizen-skill",
+    "name": "Kaizen",
+    "nameEn": "Kaizen Methodology",
+    "description": "Applies continuous improvement methodology with multiple analytical approaches.",
+    "category": "productivity",
+    "author": "NeoLabHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "kaizen",
+      "improvement",
+      "methodology"
+    ],
+    "repository": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen"
+  },
+  {
+    "id": "n8n-skills",
+    "name": "n8n",
+    "nameEn": "n8n Integration",
+    "description": "Enables AI assistants to directly understand and operate n8n workflows.",
+    "category": "productivity",
+    "author": "haunchen",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "n8n",
+      "automation",
+      "workflow"
+    ],
+    "repository": "https://github.com/haunchen/n8n-skills"
+  },
+  {
+    "id": "raffle-picker",
+    "name": "Raffle Picker",
+    "nameEn": "Raffle Winner Picker",
+    "description": "Randomly selects winners from lists for giveaways with cryptographically secure randomness.",
+    "category": "productivity",
+    "author": "ComposioHQ",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "raffle",
+      "random",
+      "utilities"
+    ],
+    "repository": "https://github.com/ComposioHQ/awesome-claude-skills/blob/master/raffle-winner-picker"
+  },
+  {
+    "id": "ship-learn-next",
+    "name": "Ship/Learn",
+    "nameEn": "Ship Learn Next",
+    "description": "Skill to help iterate on what to build or learn next, based on feedback loops.",
+    "category": "productivity",
+    "author": "michalparkola",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "learning",
+      "product",
+      "iteration"
+    ],
+    "repository": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next"
+  },
+  {
+    "id": "tapestry-skill",
+    "name": "Tapestry",
+    "nameEn": "Tapestry Knowledge",
+    "description": "Interlink and summarize related documents into knowledge networks.",
+    "category": "productivity",
+    "author": "michalparkola",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "knowledge",
+      "graph",
+      "documents"
+    ],
+    "repository": "https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry"
+  },
+  {
+    "id": "git-pushing",
+    "name": "Git Push",
+    "nameEn": "Git Pushing Workflow",
+    "description": "Automate git operations and repository interactions.",
+    "category": "collaboration-pm",
+    "author": "mhattingpete",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "git",
+      "workflow",
+      "automation"
+    ],
+    "repository": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing"
+  },
+  {
+    "id": "review-implement",
+    "name": "Review Impl",
+    "nameEn": "Review Implementing",
+    "description": "Evaluate code implementation plans and align with specs.",
+    "category": "collaboration-pm",
+    "author": "mhattingpete",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "review",
+      "code",
+      "specs"
+    ],
+    "repository": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/review-implementing"
+  },
+  {
+    "id": "test-fixing",
+    "name": "Test Fix",
+    "nameEn": "Test Fixing",
+    "description": "Detect failing tests and propose patches or fixes.",
+    "category": "collaboration-pm",
+    "author": "mhattingpete",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "tests",
+      "fixing",
+      "debugging"
+    ],
+    "repository": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/test-fixing"
+  },
+  {
+    "id": "comp-forensics",
+    "name": "Forensics",
+    "nameEn": "Computer Forensics",
+    "description": "Digital forensics analysis and investigation techniques.",
+    "category": "security",
+    "author": "mhattingpete",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "forensics",
+      "investigation",
+      "security"
+    ],
+    "repository": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics"
+  },
+  {
+    "id": "file-deletion",
+    "name": "File Deletion",
+    "nameEn": "Secure File Deletion",
+    "description": "Secure file deletion and data sanitization methods.",
+    "category": "security",
+    "author": "mhattingpete",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "security",
+      "deletion",
+      "privacy"
+    ],
+    "repository": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion"
+  },
+  {
+    "id": "metadata-extract",
+    "name": "Meta Extract",
+    "nameEn": "Metadata Extraction",
+    "description": "Extract and analyze file metadata for forensic purposes.",
+    "category": "security",
+    "author": "mhattingpete",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "metadata",
+      "forensics",
+      "analysis"
+    ],
+    "repository": "https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction"
+  },
+  {
+    "id": "threat-hunting",
+    "name": "Threat Hunt",
+    "nameEn": "Threat Hunting Sigma",
+    "description": "Use Sigma detection rules to hunt for threats and analyze security events.",
+    "category": "security",
+    "author": "jthack",
+    "version": "1.0.0",
+    "downloads": 100,
+    "stars": 50,
+    "lastUpdate": "2024-01-01",
+    "tags": [
+      "security",
+      "sigma",
+      "threats"
+    ],
+    "repository": "https://github.com/jthack/threat-hunting-with-sigma-rules-skill"
+  }
+]

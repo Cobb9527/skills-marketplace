@@ -1,0 +1,137 @@
+[
+  {
+    "id": "document-processing",
+    "name": "文档处理",
+    "nameEn": "Document Processing",
+    "description": "创建、编辑和分析各类文档",
+    "icon": "file-text",
+    "skillCount": 5,
+    "color": "#0ea5e9"
+  },
+  {
+    "id": "dev-tools",
+    "name": "开发工具",
+    "nameEn": "Development & Code Tools",
+    "description": "开发相关的技能和工具",
+    "icon": "code",
+    "skillCount": 30,
+    "color": "#6366f1"
+  },
+  {
+    "id": "data-ai",
+    "name": "数据与分析",
+    "nameEn": "Data & Analysis",
+    "description": "数据处理和分析相关技能",
+    "icon": "brain",
+    "skillCount": 11,
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "business-marketing",
+    "name": "商业营销",
+    "nameEn": "Business & Marketing",
+    "description": "品牌推广、市场分析和商业沟通",
+    "icon": "briefcase",
+    "skillCount": 5,
+    "color": "#f97316"
+  },
+  {
+    "id": "communication-writing",
+    "name": "沟通写作",
+    "nameEn": "Communication & Writing",
+    "description": "内容创作、研究和沟通工具",
+    "icon": "pen-tool",
+    "skillCount": 6,
+    "color": "#84cc16"
+  },
+  {
+    "id": "creative-media",
+    "name": "创意媒体",
+    "nameEn": "Creative & Media",
+    "description": "图像、视频和创意设计工具",
+    "icon": "palette",
+    "skillCount": 7,
+    "color": "#ec4899"
+  },
+  {
+    "id": "productivity",
+    "name": "效率工具",
+    "nameEn": "Productivity & Organization",
+    "description": "提升工作效率和组织管理",
+    "icon": "rocket",
+    "skillCount": 12,
+    "color": "#a855f7"
+  },
+  {
+    "id": "collaboration-pm",
+    "name": "协作与项目管理",
+    "nameEn": "Collaboration & Project Management",
+    "description": "团队协作和项目管理工具",
+    "icon": "users",
+    "skillCount": 3,
+    "color": "#14b8a6"
+  },
+  {
+    "id": "security",
+    "name": "安全系统",
+    "nameEn": "Security & Systems",
+    "description": "安全审计、取证和系统防护",
+    "icon": "shield",
+    "skillCount": 7,
+    "color": "#ef4444"
+  },
+  {
+    "id": "web-dev",
+    "name": "Web开发",
+    "nameEn": "Web Development",
+    "description": "前端和后端Web开发技能",
+    "icon": "globe",
+    "skillCount": 10,
+    "color": "#3b82f6"
+  },
+  {
+    "id": "automation",
+    "name": "自动化",
+    "nameEn": "Automation",
+    "description": "工作流自动化和脚本",
+    "icon": "zap",
+    "skillCount": 6,
+    "color": "#f59e0b"
+  },
+  {
+    "id": "testing",
+    "name": "测试",
+    "nameEn": "Testing",
+    "description": "软件测试和质量保证",
+    "icon": "check-circle",
+    "skillCount": 5,
+    "color": "#22c55e"
+  },
+  {
+    "id": "deployment",
+    "name": "部署运维",
+    "nameEn": "Deployment & DevOps",
+    "description": "部署、运维和基础设施管理",
+    "icon": "server",
+    "skillCount": 7,
+    "color": "#06b6d4"
+  },
+  {
+    "id": "database",
+    "name": "数据库",
+    "nameEn": "Database",
+    "description": "数据库管理和优化",
+    "icon": "database",
+    "skillCount": 4,
+    "color": "#64748b"
+  },
+  {
+    "id": "documentation",
+    "name": "文档",
+    "nameEn": "Documentation",
+    "description": "文档生成和管理",
+    "icon": "book",
+    "skillCount": 4,
+    "color": "#78716c"
+  }
+]
